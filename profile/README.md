@@ -21,4 +21,4 @@ We work on some of the most complex web engineering projects, providing some of 
 
 We are currently hiring across several roles and are always looking for experts in WordPress, PHP, CSS, Laravel and more. Please look up our [Careers Page for all active job listings](https://rtcamp.com/careers/).
 
-<a href="https://rtcamp.com/"><img src="https://rtcamp.com/wp-content/uploads/2019/04/github-banner@2x.png" alt="Join us at rtCamp, we specialize in providing high performance enterprise WordPress solutions"></a>
+<a href="https://rtcamp.com/"><img src="https://rtcamp.com/wp-content/uploads/sites/2/2019/04/github-banner@2x.png" alt="Join us at rtCamp, we specialize in providing high performance enterprise WordPress solutions"></a>
